@@ -4,7 +4,7 @@
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/911625/screenshots/11113787/media/f86c438b8ad10f890b4f419276a2be1c.gif" alt="zobayada" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zobayada&label=Profile%20views&color=0e75b6&style=flat" alt="zobayada" /> </p>
 
-- 🔭 Working on **myShop**
+- 🔭 Working on **[myShop](https://zobayada.github.io/myShop/)**
 
 - 👩‍🎓 Studying in **Computer Science & Technology**
 
