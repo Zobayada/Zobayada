@@ -9,11 +9,11 @@
 - 👩‍🎓 Studying in **Computer Science & Technology**
 
 
-- 🌱  Currently learning **react**
+- 🌱  Currently learning **React**
 
 
 
-- 💬 Ask me about **Html css bootstrap js react**
+- 💬 Ask me about **Html, Css, Bootstrap, Js, React**
 
 - 📫 How to reach me **azobayada@gmail.com**
 
