@@ -4,12 +4,9 @@
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/911625/screenshots/11113787/media/f86c438b8ad10f890b4f419276a2be1c.gif" alt="zobayada" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zobayada&label=Profile%20views&color=00000&style=flat" alt="zobayada" /> </p>
 
-- 🔭 Working on **[myStore](https://afnanstore.netlify.app/)**
+- 🔭 Working on **[Fixora]**
 
-- 👩‍🎓 Studying in **Computer Science & Technology**
-
-
-- 🌱  Currently learning **React**
+- 👩‍🎓 Studying in **BSC in Computer Science & Engineering**
 
 
 
